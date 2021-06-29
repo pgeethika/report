@@ -1,0 +1,11 @@
+{
+        "baseUrl":"https://staging-stack-crp-5084.riskprofiler.io/",
+        "defaultCommandTimeout":10000,
+    "env":{
+     "email-id ":"admin@ethicalhat.com",
+     "password":"*9GM@HYkh34qDnFHFeS@"
+}
+
+
+
+}
